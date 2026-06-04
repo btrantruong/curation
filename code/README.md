@@ -7,13 +7,16 @@
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-**2. From the repo root** (`manuscript-critique/`), create the environment and install all dependencies:
+**2. From the repo root** (`curation/`), create the environment and install all dependencies:
 ```bash
 uv python install 3.9      # download Python 3.9 if not present
-uv sync                    # creates .venv and installs all packages
+##  install packages 
+uv pip install numpy pandas scikit-learn matplotlib scipy \
+               ipykernel jupyter notebook \
+               gensim fastparquet
 ```
 
-That's it. `.venv/` is created in the repo root and is used automatically by all `uv run` commands.
+`.venv/` is created in the repo root and used automatically by all `uv run` commands.
 
 ## Running notebooks
 
