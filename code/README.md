@@ -1,41 +1,51 @@
 # Week 03 — Content Representation & Recommendation Systems
 
-## Setup
+## Environment setup (from scratch)
 
-Requires [uv](https://docs.astral.sh/uv/getting-started/installation/).
-
-From the **repo root** (`manuscript-critique/`):
-
+**1. Install uv** (skip if already installed):
 ```bash
-uv sync
+curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-This installs all dependencies (numpy, pandas, scikit-learn, matplotlib, ipykernel, etc.) into a local `.venv`.
+**2. From the repo root** (`manuscript-critique/`), create the environment and install all dependencies:
+```bash
+uv python install 3.9      # download Python 3.9 if not present
+uv sync                    # creates .venv and installs all packages
+```
 
-## Running the notebook
+That's it. `.venv/` is created in the repo root and is used automatically by all `uv run` commands.
 
+## Running notebooks
+
+**Option A — VSCode (recommended)**
+
+1. Install the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) (`ms-toolsai.jupyter`) in VSCode.
+2. Open any `.ipynb` file directly in VSCode.
+3. Click **Select Kernel** (top-right of the notebook) → **Python Environments** → choose `.venv` from the repo root.
+4. Run cells normally (`Shift+Enter` or `Run All`).
+
+**Option B — browser**
 ```bash
 uv run jupyter notebook teaching-algo-curation/materials/week03_content_representation/
 ```
+Open `module_rec_content_collab_final.ipynb` and run all cells (`Kernel → Restart & Run All`).
 
-Then open `module_rec_content_collab.ipynb` in the browser. Run all cells top-to-bottom (`Kernel → Restart & Run All`).
-
-No data download needed — the notebook uses a small contrived dataset defined inline.
+No data download needed — the main notebook uses a small contrived dataset defined inline.
 
 ## Notebooks
 
 | File | Contents |
 |---|---|
-| `module_rec_content_collab.ipynb` | Content-based + collaborative filtering, distance metrics, pitfalls |
-| `module2_teaching_plan_with_simulation.ipynb` | Extended content-based demo on 25K Spotify tracks |
+| `module_rec_content_collab_final.ipynb` | Content-based + collaborative filtering, distance metrics, prediction, pitfalls |
+| `content_based.ipynb` | Extended content-based demo on 25K Spotify tracks |
 
 ## Optional: Spotify dataset
 
-`module2_teaching_plan_with_simulation.ipynb` reads from:
+`content_based.ipynb` reads from:
 
 ```
-data/spotify/songs_with_attributes_and_lyrics.csv   # ~955K tracks (not included)
+data/spotify/songs_with_attributes_and_lyrics.csv   # ~955K tracks (not in git)
 data/spotify/spotify_sample.parquet                 # cached 25K sample (auto-generated on first run)
 ```
 
-The full CSV is not tracked in git. Place it at the path above before running that notebook.
+Place the full CSV at the path above before running that notebook.
