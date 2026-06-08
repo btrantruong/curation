@@ -9,11 +9,23 @@
 
 ## Latest Announcement
 
-> **Week 8 — Collaborative Filtering (04/06)**
+<!-- LATEST_ANNOUNCEMENT_START -->
+> **Week 9 — Intro to Network Science (11/06)**
 >
-> **Mandatory:** MMDS ch. 9.3 (pp. 321–326) · Koren et al. (2009) — *Matrix Factorization Techniques*
 >
-> **Optional:** MMDS ch. 9.4 · [How to read academic papers](Readings/How%20to%20read%20academic%20papers.docx)
+> **Mandatory:**
+> - Watch [Veritasium - Can you really reach anyone in 6 steps?](https://www.youtube.com/watch?v=CYlon2tvywA)
+> - [Barabási Chapter 2 (Graph Theory)](https://networksciencebook.com/chapter/2)
+> - Play around with the simulations in the video:
+>     - [Disease spreading](https://www.veritasium.com/simulation2)
+>     - [Preferential attachment](https://ve42.co/barabasiAlbertSim)  
+>
+>
+> **Optional readings:**
+> Available in `readings/week07_virality.zip`
+> - Salganik et al., 2006 
+> - Weng et al., 2013 
+<!-- LATEST_ANNOUNCEMENT_END -->
 
 → [All announcements & reading lists](announcements.md)
 
