@@ -12,7 +12,7 @@ All readings are available on the course portal or in the `readings` folder of t
 **Optional readings:**
 - [YY Ahn 2026 NetSci Keynote](https://yyahn.com/talks/netsci2026-keynote/)
 
-## Network science topics
+### Network science topics
 
 For those interested in complexity and network science, here are some resources.
 

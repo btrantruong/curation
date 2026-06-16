@@ -18,6 +18,26 @@
 >
 > **Optional readings:**
 > - [YY Ahn 2026 NetSci Keynote](https://yyahn.com/talks/netsci2026-keynote/)
+>
+> ### Network science topics
+>
+> For those interested in complexity and network science, here are some resources.
+>
+> **Online course**
+>
+> - [Complexity Explorer courses](https://www.complexityexplorer.org/#gsc.tab=0) by [the Santa Fe Institute](https://www.santafe.edu/) — a great way to understand the foundational theories of complex systems science.
+>
+> **Books**
+>
+> - *Network Science* by Albert-László Barabási — freely available online at [networksciencebook.com](https://networksciencebook.com).
+> - *A First Course in Network Science* by Filippo Menczer, Santo Fortunato & Clayton A. Davis.
+> - *Introduction to the Theory of Complex Systems* by Stefan Thurner, Rudolf Hanel & Peter Klimek.
+> - *The Computational Beauty of Nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation* by Gary William Flake.
+> - *Networks, Crowds, and Markets* by David Easley & Jon Kleinberg.
+> - *Think Complexity: Complexity Science and Computational Modeling* by Allen Downey.
+>
+> **Reading collections in this repo**
+> - A folder of readings on individual network science topics (collective motion, community detection, mobility, network robustness, science of science, and more) — see `readings/topics in network science/`, where each topic is also available as its own zip.
 <!-- LATEST_ANNOUNCEMENT_END -->
 
 → [All announcements & reading lists](announcements.md)
