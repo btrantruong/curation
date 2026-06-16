@@ -1,7 +1,13 @@
+# Ignore everything in readings/ except .zip files (at any depth)
+readings/**
+!readings/**/
+!readings/**/*.zip
+!readings/*.pdf
 curation/
 .DS_Store
 */.DS_Store
-
+scripts/
+.claude/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

@@ -10,21 +10,14 @@
 ## Latest Announcement
 
 <!-- LATEST_ANNOUNCEMENT_START -->
-> **Week 9 — Intro to Network Science (11/06)**
+> **Week 10--11 — Understanding Social Media — Algorithmic & network impacts (25/06)**
 >
 >
 > **Mandatory:**
-> - Watch [Veritasium - Can you really reach anyone in 6 steps?](https://www.youtube.com/watch?v=CYlon2tvywA)
-> - [Barabási Chapter 2 (Graph Theory)](https://networksciencebook.com/chapter/2)
-> - Play around with the simulations in the video:
->     - [Disease spreading](https://www.veritasium.com/simulation2)
->     - [Preferential attachment](https://ve42.co/barabasiAlbertSim)  
->
+> - [Understanding Social Media Recommendation Algorithms by Arvind Narayanan](readings/week10_Narayanan---Understanding-Social-Media-Recommendation-Algorithms_1-7.pdf)
 >
 > **Optional readings:**
-> Available in `readings/week07_virality.zip`
-> - Salganik et al., 2006 
-> - Weng et al., 2013 
+> - [YY Ahn 2026 NetSci Keynote](https://yyahn.com/talks/netsci2026-keynote/)
 <!-- LATEST_ANNOUNCEMENT_END -->
 
 → [All announcements & reading lists](announcements.md)
