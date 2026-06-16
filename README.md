@@ -13,6 +13,9 @@
 > **Week 10--11 — Understanding Social Media — Algorithmic & network impacts (25/06)**
 >
 >
+> - **Note that we won't meet on June 18**
+> - The next meeting is June 25, on Zoom (link can be found in my announcement email)
+>
 > **Mandatory:**
 > - [Understanding Social Media Recommendation Algorithms by Arvind Narayanan](readings/week10_Narayanan---Understanding-Social-Media-Recommendation-Algorithms_1-7.pdf)
 >
