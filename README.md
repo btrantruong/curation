@@ -17,10 +17,13 @@
 > - The next meeting is June 25, on Zoom (link can be found in my announcement email)
 >
 > **Mandatory:**
-> - [Understanding Social Media Recommendation Algorithms by Arvind Narayanan](readings/week10_Narayanan---Understanding-Social-Media-Recommendation-Algorithms_1-7.pdf)
+> - Understanding Social Media Recommendation Algorithms by Arvind Narayanan
+> - The Attention Economy by Filippo Menzer and Thomas Hills
+> Available in `readings/week10_11_recsys_society.zip`
 >
 > **Optional readings:**
 > - [YY Ahn 2026 NetSci Keynote](https://yyahn.com/talks/netsci2026-keynote/)
+> - [Experimental evidence of massive-scale emotional contagion through social networks](https://www.pnas.org/doi/abs/10.1073/pnas.1320040111)
 >
 > ### Network science topics
 >
