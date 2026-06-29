@@ -13,7 +13,7 @@
 > **Week 12 - Efforts to improve social media recommendations (02/07)**
 >
 >
-> - ** We're meeting again on Zoom (link can be found in my announcement email) ** 
+> - **We're meeting again on Zoom (link can be found in my announcement email)** 
 > - Feel free to choose any 2 papers out of the list below for your reading this week. All of them should be publicly available through the links provided here, but let me know if you cannot access any of them. 
 >
 > ### The effects of Facebook algorithm
@@ -35,6 +35,8 @@
 > - [Reranking partisan animosity in algorithmic social mediafeeds alters affective polarization](https://www.science.org/doi/10.1126/science.adu5584)
 > - [The Prosocial Ranking Challenge: Reducing Polarization on Social Media without Sacrificing Engagement](https://arxiv.org/pdf/2603.19626)
 > - [Bonsai: Intentional and Personalized Social Media Feeds](https://dl.acm.org/doi/pdf/10.1145/3772318.3791855)
+> - [Identifying Constructive Conflict in Online Discussions through Controversial yet Toxicity Resilient Posts](https://ojs.aaai.org/index.php/ICWSM/article/view/42738)
+> - [Political audience diversity and news reliability in algorithmic ranking](https://www.nature.com/articles/s41562-021-01276-5)
 <!-- LATEST_ANNOUNCEMENT_END -->
 
 → [All announcements & reading lists](announcements.md)
