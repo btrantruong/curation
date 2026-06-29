@@ -7,7 +7,7 @@ All readings are available on the course portal or in the `readings` folder of t
 ## Week 12 - Efforts to improve social media recommendations (02/07)
 
 - ** We're meeting again on Zoom (link can be found in my announcement email) ** 
-- Feel free any 2 papers out of the list below for your reading this week. All of them should be publicly available through the links provided here, but let me know if you cannot access any of them. 
+- Feel free to choose any 2 papers out of the list below for your reading this week. All of them should be publicly available through the links provided here, but let me know if you cannot access any of them. 
 
 ### The effects of Facebook algorithm
 - [Does social media polarize voters? Unprecedented experiments on Facebook users reveal surprises](https://www.science.org/content/article/does-social-media-polarize-voters-unprecedented-experiments-facebook-users-reveal)
