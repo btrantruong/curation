@@ -4,6 +4,31 @@
 
 All readings are available on the course portal or in the `readings` folder of this repo.
 
+## Week 12 - Efforts to improve social media recommendations (02/07)
+
+- ** We're meeting again on Zoom (link can be found in my announcement email) ** 
+- Feel free any 2 papers out of the list below for your reading this week. All of them should be publicly available through the links provided here, but let me know if you cannot access any of them. 
+
+### The effects of Facebook algorithm
+- [Does social media polarize voters? Unprecedented experiments on Facebook users reveal surprises](https://www.science.org/content/article/does-social-media-polarize-voters-unprecedented-experiments-facebook-users-reveal)
+- [How do social media feed algorithms affect attitudes and behavior in an election campaign?](https://www.science.org/doi/10.1126/science.abp9364)
+- [Like-minded sources on Facebook are prevalent but not polarizing](https://www.nature.com/articles/s41586-023-06297-w)
+- [Reshares on social media amplify political news but do not detectably affect beliefs or opinions](https://www.science.org/doi/10.1126/science.add8424)
+
+### The effects of Twitter/X algorithm
+- [The political effects of X’s feed algorithm](https://www.nature.com/articles/s41586-026-10098-2)
+- [Algorithmic amplification of politics on Twitter](https://www.pnas.org/doi/full/10.1073/pnas.2025334119)
+
+### Algorithmic popularity bias 
+- [How algorithmic popularity bias hinders or promotes quality](https://www.nature.com/articles/s41598-018-34203-2)
+- [Navigation services amplify concentration of traffic and emissions in our cities](https://arxiv.org/pdf/2407.20004)
+
+### Designing alternative social media feeds 
+- [Embedding Democratic Values into Social Media AIs via Societal Objective Functions](https://dl.acm.org/doi/10.1145/3641002)
+- [Reranking partisan animosity in algorithmic social mediafeeds alters affective polarization](https://www.science.org/doi/10.1126/science.adu5584)
+- [The Prosocial Ranking Challenge: Reducing Polarization on Social Media without Sacrificing Engagement](https://arxiv.org/pdf/2603.19626)
+- [Bonsai: Intentional and Personalized Social Media Feeds](https://dl.acm.org/doi/pdf/10.1145/3772318.3791855)
+
 ## Week 10--11 — Understanding Social Media — Algorithmic & network impacts (25/06)
 
 - **Note that we won't meet on June 18**
