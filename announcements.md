@@ -13,8 +13,6 @@ Following our discussion on embedding values into social media, I'd like you to 
 ### Mandatory exercise
 I want you to think critically about what values a recommendation system should promote and how those values can actually be implemented and evaluated. Write up your answer to share in class next time. In your answer, justify your design choices. You can do this through your own reasoning, by referencing industry practices, or by citing peer-reviewed research. Use the steps outlined below.
 
----
-
 #### 1. Conceptualization
 
 Think about what we've learned so far, as well as the values you would want a recommendation system to reflect.
@@ -35,8 +33,6 @@ As you design it, think about questions like:
 
 One possible approach is to first define the values or goals of your platform, then design the recommendation algorithm, and finally think about what platform features are needed to make those goals achievable.
 
----
-
 #### 2. Operationalization
 
 Operationalization is the process of turning abstract ideas into something that can actually be measured or implemented. Here, the goal is to bridge your high-level design ideas with a concrete implementation.
@@ -48,8 +44,6 @@ Think about how your recommendation system would bring your values to life:
 - What information would it need to collect?
 - How does it balance competing objectives?
 
----
-
 #### 3. Evaluation
 
 Finally, think about how you would evaluate your system.
@@ -59,9 +53,7 @@ Consider questions such as:
 - How would you know whether your recommendation system is achieving its intended goals? What metrics or data would you collect to evaluate success?
 - What unintended or downstream consequences might arise? How could you detect, measure, and mitigate those consequences?
 
----
-
-## Inspiration
+### Inspiration
 
 Below are some examples for your inspiration. Choose one to read would suffice. They are from platform engineering blog posts, research papers, or released code.
 
