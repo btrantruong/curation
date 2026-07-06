@@ -10,33 +10,15 @@
 ## Latest Announcement
 
 <!-- LATEST_ANNOUNCEMENT_START -->
-> **Week 12 - Efforts to improve social media recommendations (02/07)**
+> **Week 13 - Designing a "For You" Feed (09/07)**
 >
 >
-> - **We're meeting again on Zoom (link can be found in my announcement email)** 
-> - Feel free to choose any 2 papers out of the list below for your reading this week. All of them should be publicly available through the links provided here, but let me know if you cannot access any of them. 
+> Hi class,
 >
-> ### The effects of Facebook algorithm
-> - [Does social media polarize voters? Unprecedented experiments on Facebook users reveal surprises](https://www.science.org/content/article/does-social-media-polarize-voters-unprecedented-experiments-facebook-users-reveal)
-> - [How do social media feed algorithms affect attitudes and behavior in an election campaign?](https://www.science.org/doi/10.1126/science.abp9364)
-> - [Like-minded sources on Facebook are prevalent but not polarizing](https://www.nature.com/articles/s41586-023-06297-w)
-> - [Reshares on social media amplify political news but do not detectably affect beliefs or opinions](https://www.science.org/doi/10.1126/science.add8424)
+> Following our discussion on embedding values into social media, I'd like you to design your own recommendation system for a "For You" feed.
 >
-> ### The effects of Twitter/X algorithm
-> - [The political effects of X’s feed algorithm](https://www.nature.com/articles/s41586-026-10098-2)
-> - [Algorithmic amplification of politics on Twitter](https://www.pnas.org/doi/full/10.1073/pnas.2025334119)
->
-> ### Algorithmic popularity bias 
-> - [How algorithmic popularity bias hinders or promotes quality](https://www.nature.com/articles/s41598-018-34203-2)
-> - [Navigation services amplify concentration of traffic and emissions in our cities](https://arxiv.org/pdf/2407.20004)
->
-> ### Designing alternative social media feeds 
-> - [Embedding Democratic Values into Social Media AIs via Societal Objective Functions](https://dl.acm.org/doi/10.1145/3641002)
-> - [Reranking partisan animosity in algorithmic social mediafeeds alters affective polarization](https://www.science.org/doi/10.1126/science.adu5584)
-> - [The Prosocial Ranking Challenge: Reducing Polarization on Social Media without Sacrificing Engagement](https://arxiv.org/pdf/2603.19626)
-> - [Bonsai: Intentional and Personalized Social Media Feeds](https://dl.acm.org/doi/pdf/10.1145/3772318.3791855)
-> - [Identifying Constructive Conflict in Online Discussions through Controversial yet Toxicity Resilient Posts](https://ojs.aaai.org/index.php/ICWSM/article/view/42738)
-> - [Political audience diversity and news reliability in algorithmic ranking](https://www.nature.com/articles/s41562-021-01276-5)
+> ### Mandatory exercise
+> I want you to think critically about what values a recommendation system should promote and how those values can actually be implemented and evaluated. Write up your answer to share in class next time. In your answer, justify your design choices. You can do this through your own reasoning, by referencing industry practices, or by citing peer-reviewed research. Use the steps outlined below.
 <!-- LATEST_ANNOUNCEMENT_END -->
 
 → [All announcements & reading lists](announcements.md)

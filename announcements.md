@@ -4,6 +4,88 @@
 
 All readings are available on the course portal or in the `readings` folder of this repo.
 
+## Week 13 - Designing a "For You" Feed (09/07)
+
+Hi class,
+
+Following our discussion on embedding values into social media, I'd like you to design your own recommendation system for a "For You" feed.
+
+### Mandatory exercise
+I want you to think critically about what values a recommendation system should promote and how those values can actually be implemented and evaluated. Write up your answer to share in class next time. In your answer, justify your design choices. You can do this through your own reasoning, by referencing industry practices, or by citing peer-reviewed research. Use the steps outlined below.
+
+---
+
+#### 1. Conceptualization
+
+Think about what we've learned so far, as well as the values you would want a recommendation system to reflect.
+
+The platform can be:
+- a centralized social media platform (e.g., TikTok, X, Instagram),
+- a decentralized platform (e.g., Bluesky or Mastodon),
+- or even a completely new platform that doesn't exist yet.
+
+It also doesn't have to be a general-purpose social network. Maybe it's meme-only, video-only, designed for local communities, or something entirely different.
+
+As you design it, think about questions like:
+- What do you want the platform to encourage or discourage?
+- What kinds of content should be promoted?
+- What signals should the recommendation algorithm use?
+- What additional platform features (moderation, community governance, user controls, etc.) would support those goals?
+- How does the underlying infrastructure (centralized vs. decentralized) enable or limit your design?
+
+One possible approach is to first define the values or goals of your platform, then design the recommendation algorithm, and finally think about what platform features are needed to make those goals achievable.
+
+---
+
+#### 2. Operationalization
+
+Operationalization is the process of turning abstract ideas into something that can actually be measured or implemented. Here, the goal is to bridge your high-level design ideas with a concrete implementation.
+For example, if your goal is to promote "meaningful conversations," how would the system recognize that? What data or behaviors would it use? What features would the algorithm rely on?
+
+Think about how your recommendation system would bring your values to life:
+- What inputs or signals does it use?
+- What models or rules does it rely on?
+- What information would it need to collect?
+- How does it balance competing objectives?
+
+---
+
+#### 3. Evaluation
+
+Finally, think about how you would evaluate your system.
+
+Consider questions such as:
+- Is your proposed system actually viable? What parts would be difficult to implement?
+- How would you know whether your recommendation system is achieving its intended goals? What metrics or data would you collect to evaluate success?
+- What unintended or downstream consequences might arise? How could you detect, measure, and mitigate those consequences?
+
+---
+
+## Inspiration
+
+Below are some examples for your inspiration. Choose one to read would suffice. They are from platform publish engineering blog posts, publish research papers, and a few have released code.
+
+- [X (Twitter) Open-source recommendation algorithm](https://github.com/xai-org/x-algorithm)
+- [Facebook News Feed ranking, powered by machine learning](https://engineering.fb.com/2021/01/26/core-infra/news-feed-ranking/) 
+- [Meta transparency documentation](https://transparency.meta.com/)
+- [Scaling Instagram's recommendation system](https://engineering.fb.com/2025/05/21/production-engineering/journey-to-1000-models-scaling-instagrams-recommendation-system/) 
+- [How TikTok recommends videos "For You"](https://newsroom.tiktok.com/how-tiktok-recommends-videos-for-you?lang=en)
+- [Why a video is recommended](https://newsroom.tiktok.com/learn-why-a-video-is-recommended-for-you?lang=en)
+- [Deep Neural Networks for YouTube Recommendations](https://research.google/pubs/deep-neural-networks-for-youtube-recommendations/)
+- [An Industrial-Scale Sequential Recommender for LinkedIn Feed Ranking](https://arxiv.org/abs/2602.12354) 
+- [Blogpost - The AI researcher's guide to a non-boring Bluesky Feed](https://nsaphra.net/post/bsky/)
+
+### Optional exercise
+
+Bring your feed to life.
+Decentralized platforms like Bluesky make it possible for people to build their own custom feeds that others can subscribe to. If motivated, you can try building your own custom feed that others can use. It might blow up - you never know! 
+
+### Bluesky & Mastodon resources to build custom feeds 
+- [Custom Feed documentation](https://docs.bsky.app/docs/starter-templates/custom-feeds)
+- [Bluesky Feed generator repository](https://github.com/bluesky-social/feed-generator)
+- [AT Protocol custom feed tutorial](https://atproto.com/guides/custom-feed-tutorial)
+- [Mastodon Timeline API documentation](https://docs.joinmastodon.org/methods/timelines/)
+
 ## Week 12 - Efforts to improve social media recommendations (02/07)
 
 - **We're meeting again on Zoom (link can be found in my announcement email)** 

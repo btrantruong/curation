@@ -1,4 +1,5 @@
 # Ignore everything in readings/ except .zip files (at any depth)
+readings/week12_alternatives/notes.md
 readings/**
 !readings/week09_class_notes_network_science/**
 !readings/**/
