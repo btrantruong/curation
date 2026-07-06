@@ -63,7 +63,7 @@ Consider questions such as:
 
 ## Inspiration
 
-Below are some examples for your inspiration. Choose one to read would suffice. They are from platform publish engineering blog posts, publish research papers, and a few have released code.
+Below are some examples for your inspiration. Choose one to read would suffice. They are from platform engineering blog posts, research papers, or released code.
 
 - [X (Twitter) Open-source recommendation algorithm](https://github.com/xai-org/x-algorithm)
 - [Facebook News Feed ranking, powered by machine learning](https://engineering.fb.com/2021/01/26/core-infra/news-feed-ranking/) 
