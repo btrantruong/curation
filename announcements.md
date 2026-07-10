@@ -4,6 +4,22 @@
 
 All readings are available on the course portal or in the `readings` folder of this repo.
 
+## Week 14 - Synthesis & Feedback (16/07)
+
+Hi class,
+Thank you for making it to the final week of the course. I hope you have found it useful.
+
+1. Next class will be **in person**, in VMB/0E02/U
+2. There is no required reading for the next class. I will use the session to synthesize the course and leave time to hear your ideas about alternative forms of social media and to discuss them together.
+3. The readings mentioned in the last class are below, in case you would like to look through them.
+4. Please consider leaving feedback on the course [here](https://tally.so/r/7Rzl12
+). The survey is **anonymous and optional**, but I would really appreciate your input, as it will help me improve the course. It should take less than 7 minutes to complete.
+
+### Optional reading 
+- [Automating automaticity: How the context of human choice affects the extent of algorithmic bias](https://www.nber.org/system/files/working_papers/w30981/w30981.pdf)
+- [The prosocial ranking challenge: reducing polarization on social media without sacrificing engagement](https://arxiv.org/pdf/2603.19626)
+- [Experimental evidence of massive-scale emotional contagion through social networks](readings/week13/kramer-et-al-2014-experimental-evidence-of-massive-scale-emotional-contagion-through-social-networks.pdf)
+
 ## Week 13 - Designing a "For You" Feed (09/07)
 
 Hi class,
